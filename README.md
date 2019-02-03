@@ -1,5 +1,11 @@
 # core-sqlite-api
 core-sqlite-api
+Framework-
+Asp.Net Core 2.1.0
+
+Nuget Dependencies-
+Asp.Net Core 2.1.1
+Microsoft.EntityFrameworkCore.Sqlite 2.1.0
 
 Rudras-MacBook-Pro:coreapi rudrasingh$ dotnet ef
 

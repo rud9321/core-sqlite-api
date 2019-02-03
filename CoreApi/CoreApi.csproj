@@ -15,4 +15,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="readme.md" />
+  </ItemGroup>
 </Project>

@@ -11831,11 +11831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rudrasingh/Documents/code/core/CoreApi/core-sqlite-api/CoreApi/CoreApi.csproj",
+      "projectUniqueName": "/Users/rudrasingh/Documents/code/core/core-sqlite-api/CoreApi/CoreApi.csproj",
       "projectName": "CoreApi",
-      "projectPath": "/Users/rudrasingh/Documents/code/core/CoreApi/core-sqlite-api/CoreApi/CoreApi.csproj",
+      "projectPath": "/Users/rudrasingh/Documents/code/core/core-sqlite-api/CoreApi/CoreApi.csproj",
       "packagesPath": "/Users/rudrasingh/.nuget/packages/",
-      "outputPath": "/Users/rudrasingh/Documents/code/core/CoreApi/core-sqlite-api/CoreApi/obj",
+      "outputPath": "/Users/rudrasingh/Documents/code/core/core-sqlite-api/CoreApi/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
