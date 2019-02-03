@@ -1,7 +1,4 @@
-# core-sqlite-api
-core-sqlite-api
-
-Rudras-MacBook-Pro:coreapi rudrasingh$ dotnet ef
+﻿Rudras-MacBook-Pro:coreapi rudrasingh$ dotnet ef
 
                      _/\__       
                ---==/    \\      
@@ -32,3 +29,6 @@ info: Microsoft.EntityFrameworkCore.Infrastructure[10403]
       Entity Framework Core 2.1.1-rtm-30846 initialized 'DataBaseContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite' with options: None
 Done. To undo this action, use 'ef migrations remove'
 Rudras-MacBook-Pro:coreapi rudrasingh$ dotnet ef database update
+
+
+
